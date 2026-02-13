@@ -1,62 +1,35 @@
-# 📚 量子可积系统学习笔记
+#  量子可积系统学习笔记😎
 
-欢迎来到我的学习笔记仓库！这是一份关于**量子可积系统**研究和学习的综���笔记。
 
-## 🎯 项目简介
+## 项目简介⚓
 
-本仓库包含关于量子可积系统的深入学习内容，涵盖理论基础、数学方法和应用实例。适合对量子物理和可积系统感兴趣的学习者参考。
+本仓库内容是笔者本科科研训练的学习笔记，一般是文献研读的一些学习笔记，加上了笔者的一些思考与见解。仓库的内容是量子可积系统的，主要是Lieb-Linger model和Heisenberg Model，包含基本的求解，代数贝特方法，临界行为，Luttinger液体映射等，还有一些其他的内容，笔记内容比较基础，因为笔者能力有限，所以错误难免出现还望海涵。🙏
 
 ## 📖 学习内容
 
 ### 核心主题
-- 🔹 **可积系统基础** - 经典与量子可积系统的基本概念
-- 🔹 **Bethe Ansatz 方法** - 求解量子可积系统的重要工具
-- 🔹 **Yang-Baxter 方程** - 可积系统的代数结构
-- 🔹 **量子群与对称性** - 可积系统的对称性分析
-- 🔹 **应用与前沿** - 冷原子、凝聚态物理中的应用
+-  **Bethe Ansatz 方法** - 求解量子可积系统的重要工具
+- **Yang-Baxter 方程** - 可积系统的代数结构
+- **Algebrical Bethe 方法**-进阶的方法
+- **临界行为分析**-不同相的分析与展开
+- **Luttinger Liquid Theory**-共形场论分析一维系统
+- **Quantum  Fisher Information**-精密测量的应用
 
 
-## 🚀 快速开始
+## 🚀 包含
 
-1. **浏览笔记** - 从 `notes/` 文件夹开始
-2. **查看资料** - `PDFs/` 文件夹中的学习资料
-3. **运行代码** - `code/` 文件夹中的示例和计算
-
-## 📝 关键概念速览
-
-| 概念 | 描述 |
-|------|------|
-| **可积系统** | 具有足够守恒量的动力系统，可以精确求解 |
-| **Bethe Ansatz** | 求解一维量子系统的代数方法 |
-| **Yang-Baxter 方程** | 可积系统的代数基础，保证系统可积性 |
-| **量子群** | 推广的对称代数结构 |
+1. **笔记** - pdf格式的笔记
+2. **一些有用的code**-另外给出
 
 ## 📚 推荐参考资源
 
-- 经典文献和教科书
-- 前沿研究论文
-- 在线讲座与课程
+- 《An introduction to Integrable Techniques for one-dimensional Quantum Systems》Fabio Franchini
+- 《Correlations in Low-Dimensional Quantum Gases》Guillaume Lang
+- 《The Bethe Wavefunction》Michel Gaudin
+- 《Introduction to the Statistical Physics of integrable Many-body systems》
+- 经典文献，一些note等
 
-## ✨ 学习进度
 
-- [x] 可积系统基础
-- [x] Bethe Ansatz 方法介绍
-- [ ] 深入应用研究
-- [ ] 前沿课题探索
+如果你对这份笔记有任何建议或问题，欢迎联系交流。网页内容可自由使用和分享
 
-## 📧 联系与反馈
-
-如果你对这份笔记有任何建议或问题，欢迎：
-- 提出 Issue
-- 提交 Pull Request
-- 通过 GitHub 联系我
-
-## 📄 许可证
-
-MIT License - 可自由使用和分享
-
----
-
-**更新日期：** 2026-02-13  
-**状态：** 持续更新中 🚀
 
